@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8691f96-9e3b-4ac7-b2c3-18b2ba6221fd" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1038252030">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.59" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1410" />
+          <entry key="properties" value="40" />
+          <entry key="xml" value="98" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1410" />
+          <entry key="Properties" value="40" />
+          <entry key="XML" value="98" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="16" />
+          <entry key="java" value="50" />
+          <entry key="properties" value="6" />
+          <entry key="xml" value="16" />
+          <entry key="xsd" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="16" />
+          <entry key="JAVA" value="50" />
+          <entry key="Properties" value="6" />
+          <entry key="XML" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spring+mongodb+mysql" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/spring/service/TimeaxisNodeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/mongo/TimeaxisNodeService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wengowl/test/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wengowl/test/MongoSpringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="60" column="69" selection-start-line="60" selection-start-column="69" selection-end-line="60" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/ocr/OCRIdentity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/qrcode/QRCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-114">
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/common/utils/FileUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/common/filter/ExceptionResolver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="50" column="42" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/spring/controller/RequestResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>repository</find>
+      <find>insert</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/WEB-INF/spring-mongodb.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/config/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/config/mongodb.properties" />
+        <option value="$PROJECT_DIR$/out/production/Spring+mongodb+mysql/WEB-INF/config/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/out/production/Spring+mongodb+mysql/WEB-INF/config/spring-mongodb.xml" />
+        <option value="$PROJECT_DIR$/out/production/Spring+mongodb+mysql/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/out/production/Spring+mongodb+mysql/spring-mongodb.xml" />
+        <option value="$PROJECT_DIR$/src/spring-mongodb.xml" />
+        <option value="$PROJECT_DIR$/src/com/wengowl/test/Home.java" />
+        <option value="$PROJECT_DIR$/src/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/com/wengowl/test/userDao.java" />
+        <option value="$PROJECT_DIR$/src/com/wengowl/test/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/wengowl/test/UserService.java" />
+        <option value="$PROJECT_DIR$/src/zsgl/ocr/OCRIdentity.java" />
+        <option value="$PROJECT_DIR$/src/com/k3i/zsgl/ocr/OCRIdentity.java" />
+        <option value="$PROJECT_DIR$/src/com/k3i/zsgl/spring/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/config/spring-mongodb.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/config/db.properties" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/config/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/com/k3i/zsgl/mongo/User.java" />
+        <option value="$PROJECT_DIR$/src/com/k3i/zsgl/mongo/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/k3i/zsgl/mongo/UserService.java" />
+        <option value="$PROJECT_DIR$/src/com/k3i/zsgl/mongo/TimeaxisNode.java" />
+        <option value="$PROJECT_DIR$/src/com/k3i/zsgl/qrcode/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/k3i/zsgl/common/filter/ExceptionResolver.java" />
+        <option value="$PROJECT_DIR$/src/com/wengowl/test/User.java" />
+        <option value="$PROJECT_DIR$/src/com/k3i/zsgl/mongo/TimeaxisNodeService.java" />
+        <option value="$PROJECT_DIR$/src/com/wengowl/test/MongoSpringTest.java" />
+        <option value="$PROJECT_DIR$/src/com/k3i/zsgl/spring/service/TimeaxisNodeServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1592" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zsgl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zsgl" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zsgl" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zsgl" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zsgl" type="462c0819:PsiDirectoryNode" />
+              <item name="mongo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zsgl" type="462c0819:PsiDirectoryNode" />
+              <item name="qrcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zsgl" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zsgl" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zsgl" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zsgl" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring+mongodb+mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring+mongodb+mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536223673974" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\工作\code\Spring+mongodb+mysql\web\WEB-INF" />
+      <recent name="D:\工作\code\Spring+mongodb+mysql\web\WEB-INF\config" />
+      <recent name="D:\工作\code\Spring+mongodb+mysql\out\production\Spring+mongodb+mysql" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\工作\code\Spring+mongodb+mysql\web\WEB-INF\lib" />
+      <recent name="D:\工作\code\Spring+mongodb+mysql\src\com\k3i\zsgl\mongo" />
+      <recent name="D:\工作\code\Spring+mongodb+mysql\web\WEB-INF\config" />
+      <recent name="D:\工作\code\Spring+mongodb+mysql\lib" />
+      <recent name="D:\工作\code\Spring+mongodb+mysql\web\WEB-INF" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wengowl.test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MongoSpringTest.testQueryUser">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoSpringTest.testAddUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring+mongodb+mysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wengowl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wengowl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wengowl.test.MongoSpringTest" />
+      <option name="METHOD_NAME" value="testAddUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoSpringTest.testQueryUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring+mongodb+mysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wengowl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wengowl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wengowl.test.MongoSpringTest" />
+      <option name="METHOD_NAME" value="testQueryUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoSpringTest.testRemoveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring+mongodb+mysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wengowl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wengowl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wengowl.test.MongoSpringTest" />
+      <option name="METHOD_NAME" value="testRemoveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoSpringTest.testUpdateDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring+mongodb+mysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wengowl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wengowl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wengowl.test.MongoSpringTest" />
+      <option name="METHOD_NAME" value="testUpdateDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoSpringTest.testUpdateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring+mongodb+mysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wengowl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wengowl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wengowl.test.MongoSpringTest" />
+      <option name="METHOD_NAME" value="testUpdateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MongoSpringTest.testAddUser" />
+      <item itemvalue="JUnit.MongoSpringTest.testQueryUser" />
+      <item itemvalue="JUnit.MongoSpringTest.testUpdateUser" />
+      <item itemvalue="JUnit.MongoSpringTest.testRemoveUser" />
+      <item itemvalue="JUnit.MongoSpringTest.testUpdateDocument" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MongoSpringTest.testQueryUser" />
+        <item itemvalue="JUnit.MongoSpringTest.testAddUser" />
+        <item itemvalue="JUnit.MongoSpringTest.testUpdateUser" />
+        <item itemvalue="JUnit.MongoSpringTest.testRemoveUser" />
+        <item itemvalue="JUnit.MongoSpringTest.testUpdateDocument" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8691f96-9e3b-4ac7-b2c3-18b2ba6221fd" name="Default" comment="" />
+      <created>1528426938104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528426938104</updated>
+      <workItem from="1528426941300" duration="2629000" />
+      <workItem from="1528857208469" duration="1423000" />
+      <workItem from="1528936858466" duration="55000" />
+      <workItem from="1528937066572" duration="729000" />
+      <workItem from="1529022469428" duration="651000" />
+      <workItem from="1529368453182" duration="1270000" />
+      <workItem from="1529455058824" duration="850000" />
+      <workItem from="1531188389777" duration="619000" />
+      <workItem from="1531444229959" duration="605000" />
+      <workItem from="1531801887009" duration="599000" />
+      <workItem from="1531874564843" duration="1068000" />
+      <workItem from="1531960707846" duration="1998000" />
+      <workItem from="1532671810168" duration="1555000" />
+      <workItem from="1532928824610" duration="672000" />
+      <workItem from="1532938791803" duration="3141000" />
+      <workItem from="1533003655136" duration="9870000" />
+      <workItem from="1533085193997" duration="1251000" />
+      <workItem from="1533170966979" duration="2074000" />
+      <workItem from="1533257007086" duration="4782000" />
+      <workItem from="1533517389079" duration="1450000" />
+      <workItem from="1533605651478" duration="599000" />
+      <workItem from="1533688533111" duration="2401000" />
+      <workItem from="1533775202567" duration="1796000" />
+      <workItem from="1533870370335" duration="1801000" />
+      <workItem from="1534129645072" duration="15926000" />
+      <workItem from="1534207782886" duration="2769000" />
+      <workItem from="1534293869279" duration="1203000" />
+      <workItem from="1534380135506" duration="1197000" />
+      <workItem from="1534474356846" duration="598000" />
+      <workItem from="1534728211658" duration="1800000" />
+      <workItem from="1534813441106" duration="599000" />
+      <workItem from="1534904529756" duration="598000" />
+      <workItem from="1535073630701" duration="3154000" />
+      <workItem from="1535334797390" duration="3033000" />
+      <workItem from="1535421308687" duration="2803000" />
+      <workItem from="1535503243465" duration="598000" />
+      <workItem from="1535589727762" duration="3472000" />
+      <workItem from="1535675842150" duration="1798000" />
+      <workItem from="1535935309630" duration="3841000" />
+      <workItem from="1536022281554" duration="5715000" />
+      <workItem from="1536109874589" duration="2458000" />
+      <workItem from="1536194223601" duration="8323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MongoSpringTest_testAddUser - 2018.08.24 at 09h 51m 57s.xml">
+      <configuration name="MongoSpringTest.testAddUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoSpringTest_testQueryUser - 2018.08.24 at 09h 53m 54s.xml">
+      <configuration name="MongoSpringTest.testQueryUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoSpringTest_testQueryUser - 2018.08.24 at 10h 08m 09s.xml">
+      <configuration name="MongoSpringTest.testQueryUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoSpringTest_testUpdateUser - 2018.08.24 at 10h 09m 09s.xml">
+      <configuration name="MongoSpringTest.testUpdateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoSpringTest_testAddUser - 2018.09.06 at 16h 36m 04s.xml">
+      <configuration name="MongoSpringTest.testAddUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoSpringTest_testAddUser - 2018.09.06 at 16h 37m 08s.xml">
+      <configuration name="MongoSpringTest.testAddUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoSpringTest_testAddUser - 2018.09.06 at 16h 38m 06s.xml">
+      <configuration name="MongoSpringTest.testAddUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoSpringTest_testQueryUser - 2018.09.06 at 16h 46m 17s.xml">
+      <configuration name="MongoSpringTest.testQueryUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoSpringTest_testQueryUser - 2018.09.06 at 16h 46m 48s.xml">
+      <configuration name="MongoSpringTest.testQueryUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoSpringTest_testQueryUser - 2018.09.06 at 16h 47m 25s.xml">
+      <configuration name="MongoSpringTest.testQueryUser" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="103773000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49457702" visible="true" weight="0.3192964" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.505423" side_tool="true" weight="0.32675907" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/lib/spring-data-commons-2.0.9.RELEASE.jar!/org/springframework/data/mapping/PersistentPropertyAccessor.class" />
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-data-commons-2.0.9.RELEASE-sources.jar!/org/springframework/data/mapping/model/BasicPersistentEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-data-commons-2.0.9.RELEASE-sources.jar!/org/springframework/data/mapping/PersistentPropertyAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-data-mongodb-2.0.9.RELEASE.jar!/org/springframework/data/mongodb/core/query/Update.class" />
+    <entry file="jar://E:/develop/Java/jdk1.8.0_172/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Spring+mongodb+mysql/mongodb.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Spring+mongodb+mysql/spring-mongodb.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-data-mongodb-2.0.9.RELEASE.jar!/org/springframework/data/mongodb/core/MongoTemplate.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/Spring+mongodb+mysql/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mongodb.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring-mongodb.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="68" column="14" selection-start-line="68" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wengowl/test/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wengowl/test/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wengowl/test/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/rcfw/ocr/OCRIdentity.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/hibernate/dao/AllowancehistoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/spring/service/AuditService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/spring/service/ApplyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/hibernate/dao/AllowanceDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3374">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/hibernate/dao/ApplyDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/mongodb.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-mongodb.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-data-mongodb-2.0.9.RELEASE.jar!/org/springframework/data/mongodb/core/MongoTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3630">
+          <caret line="140" column="13" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/mongo/Home.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/hibernate/dao/ApplyCompareDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/mongo/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/mongo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/spring/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-data-mongodb-2.0.9.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Update.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15278">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/mongo/TimeaxisNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1197#1198#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-data-mongodb-2.0.9.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="968" column="16" selection-start-line="968" selection-start-column="16" selection-end-line="968" selection-end-column="16" />
+          <folding>
+            <element signature="e#66965#66995#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/spring/service/AllowanceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="852">
+          <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/spring/service/ImportService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/qrcode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/spring/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/spring/controller/RequestResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/common/utils/ExporttoExcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/ocr/OCRIdentity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/qrcode/QRCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/common/filter/ExceptionResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="50" column="42" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wengowl/test/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/common/utils/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/mongo/TimeaxisNodeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wengowl/test/MongoSpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="60" column="69" selection-start-line="60" selection-start-column="69" selection-end-line="60" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/k3i/zsgl/spring/service/TimeaxisNodeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (Spring+mongodb+mysql)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|Spring+mongodb+mysql</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
